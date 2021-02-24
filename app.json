@@ -1,0 +1,21 @@
+{
+  "name": "PetBuddies",
+  "displayName": "PetBuddies",
+  "expo": {
+    "name": "PetBuddies",
+    "icon": "./src/images/logo.png",
+    "slug": "PetBuddies",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.plcsystem.petbuddies"
+    },
+    "android": {
+      "package": "com.plcsystem.petbuddies",
+      "googleServicesFile": "./android/app/google-services.json"
+    },
+    "description": "Petbuddies Services"
+  }
+}
